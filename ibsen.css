@@ -1,0 +1,30 @@
+/* Styles for spoken text */
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+/* Styles for stage directions */
+.direction {
+    font-family: Times New Roman, serif;
+    font-size: 14px;
+    color: black;
+    background-color: #f5f5f5; /* Light background color */
+    transition: background-color 0.3s, color 0.3s; /* Hover effect */
+}
+
+/* Hover effect for stage directions */
+.direction:hover {
+    background-color: #ccc; /* Darker background on hover */
+    color: white;
+}
+
+/* Character-specific styles */
+.nora {
+    color: #FF5733; /* Nora's name color */
+}
+
+.nurse {
+    color: #3498DB; /* Nurse's name color */
+}

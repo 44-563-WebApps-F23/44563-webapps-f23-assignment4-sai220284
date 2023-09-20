@@ -9,14 +9,14 @@
 .direction {
     font-family: Times New Roman, serif;
     font-size: 14px;
-    color: black;
+    color: rgb(8, 164, 125);
     background-color: #f5f5f5; /* Light background color */
     transition: background-color 0.3s, color 0.3s; /* Hover effect */
 }
 
 /* Hover effect for stage directions */
 .direction:hover {
-    background-color: #ccc; /* Darker background on hover */
+    background-color: #d9dad6; /* Darker background on hover */
     color: white;
 }
 

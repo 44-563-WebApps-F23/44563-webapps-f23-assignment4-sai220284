@@ -2,4 +2,4 @@
 # WebApps-F23-Assignment-4
 A practice assignment for HTML with CSS
 
-<p>Hosted at: <a href="https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment4-sai220284/">My Website</a></p>
+<p>Hosted at: <a href="https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment4-sai220284/blob/main/playpart.html">My Website</a></p>

@@ -61,4 +61,34 @@
     text-shadow: 2px 2px 4px #FF5733; /* Apply a shadow with an interesting color and blur */
     border: 1px solid #FF5733; /* Apply an interesting border */
 }
+/* Style for the bottom navbar */
+.bottom-navbar {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.bottom-navbar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.bottom-navbar ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.bottom-navbar ul li:last-child {
+    margin-right: 0;
+}
+
+.bottom-navbar a {
+    text-decoration: none;
+    color: white;
+}
+
+.bottom-navbar a:hover {
+    text-decoration: underline;
+}
 

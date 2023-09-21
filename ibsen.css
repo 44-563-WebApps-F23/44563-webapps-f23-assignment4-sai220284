@@ -56,4 +56,9 @@
     padding: 8px;
     border: 1px solid #ccc;
 }
+/* Hover effect for character names */
+.speech:hover {
+    text-shadow: 2px 2px 4px #FF5733; /* Apply a shadow with an interesting color and blur */
+    border: 1px solid #FF5733; /* Apply an interesting border */
+}
 

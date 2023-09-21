@@ -3,3 +3,5 @@
 A practice assignment for HTML with CSS
 
 <p>Hosted at: <a href="https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment4-sai220284/">My Website</a></p>
+
+<a href="playpart.html">Go to playpart</a>
